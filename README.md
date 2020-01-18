@@ -8,3 +8,6 @@
 4) Control Statements
 5) Files
 6) Arithmatic Operations
+7) Case Statements
+8) Arrays
+9) While loop
