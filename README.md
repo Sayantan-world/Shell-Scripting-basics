@@ -11,3 +11,4 @@
 7) Case Statements
 8) Arrays
 9) While loop (Until loop included)
+10) For loop
